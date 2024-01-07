@@ -3,7 +3,7 @@ package com.acikek.qcraft.item;
 import com.acikek.qcraft.QCraft;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
-import net.minecraft.util.registry.Registry;
+import net.minecraft.registry.Registry;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -5,7 +5,7 @@ import com.acikek.qcraft.world.state.frequency.Frequential;
 import com.mojang.serialization.Codec;
 import com.mojang.serialization.codecs.RecordCodecBuilder;
 import net.minecraft.item.ItemStack;
-import net.minecraft.util.dynamic.DynamicSerializableUuid;
+import net.minecraft.util.Uuids;
 import net.minecraft.util.math.BlockPos;
 
 import java.util.List;

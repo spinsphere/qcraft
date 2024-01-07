@@ -2,7 +2,7 @@ package com.acikek.qcraft.sound;
 
 import com.acikek.qcraft.QCraft;
 import net.minecraft.sound.SoundEvent;
-import net.minecraft.util.registry.Registry;
+import net.minecraft.registry.Registry;
 
 public class Sounds {
 
